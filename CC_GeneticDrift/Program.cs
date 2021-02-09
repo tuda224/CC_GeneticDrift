@@ -8,9 +8,9 @@ namespace CC_GeneticDrift
         {
             while (true)
             {
-                Level1.Run();
+                //Level1.Run();
                 //Level2.Run();
-                //Level3.Run();
+                Level3.Run();
                 //Level4.Run();
             }
         }
