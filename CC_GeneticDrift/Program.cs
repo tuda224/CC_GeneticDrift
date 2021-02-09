@@ -10,8 +10,8 @@ namespace CC_GeneticDrift
             {
                 //Level1.Run();
                 //Level2.Run();
-                Level3.Run();
-                //Level4.Run();
+                //Level3.Run();
+                Level4.Run();
             }
         }
     }

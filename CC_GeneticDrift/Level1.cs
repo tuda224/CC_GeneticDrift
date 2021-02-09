@@ -10,6 +10,8 @@ namespace CC_GeneticDrift
     {
         public int First { get; set; }
         public int Second { get; set; }
+        public int I { get; set; }
+        public int J { get; set; }
     }
 
     public class Level1
